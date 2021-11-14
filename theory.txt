@@ -49,3 +49,7 @@ Image tags - <image>
 List tags - <ul>, <li>, <ol>
 
 Table tags - <table>, <thead>, <th>, <tbody>, <tr>, <td>
+
+Form tags - Form, input, textarea, select, button
+
+script tags - script, no script
